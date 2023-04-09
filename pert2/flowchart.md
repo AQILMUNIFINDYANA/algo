@@ -1,7 +1,7 @@
 ```mermaid
     flowchart TD;
 
-    A(Welcome) --> B[Selamat Bergabung];
+    A(Welcome) --> B[User];
     B --> C[AQIL MUNIF INDYANA];
-    C --> D(Good Bye);
+    C --> D(Selamat Bergabung);
 ```
