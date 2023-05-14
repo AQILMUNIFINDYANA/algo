@@ -1,0 +1,2 @@
+# Pertemuan 2
+# MATA KULIAH ALGORITMA

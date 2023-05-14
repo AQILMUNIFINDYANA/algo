@@ -1,7 +1,7 @@
 ```mermaid
     flowchart TD;
 
-    A(Welcome) --> B[User];
-    B --> C[AQIL MUNIF INDYANA];
-    C --> D(Selamat Bergabung);
+    A(start) --INPUTANNYA INT-->B[/masukkan angka/];
+    B --> C[tampilkan angka];
+    C --> D(end);
 ```
